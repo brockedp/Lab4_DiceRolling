@@ -1,0 +1,11 @@
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\netcoreapp2.1\Lab4DiceRolling.deps.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\netcoreapp2.1\Lab4DiceRolling.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\netcoreapp2.1\Lab4DiceRolling.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\netcoreapp2.1\Lab4DiceRolling.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\bin\Debug\netcoreapp2.1\Lab4DiceRolling.pdb
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.dll
+C:\Users\Deno\Documents\Grand Circus\Labs\Lab4DiceRolling\Lab4DiceRolling\obj\Debug\netcoreapp2.1\Lab4DiceRolling.pdb
